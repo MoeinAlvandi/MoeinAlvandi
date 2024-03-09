@@ -7,13 +7,13 @@
 <table width="100%">
   <tr>
      <td align="center" valign="top" width="17%">
-        <a rel="me" href="https://x.com/MoeenAlvandi?t=6Pbys85hOdyfDXfVZolzAg&s=35" target="_blank">
+        <a rel="me" target="_blank" href="https://x.com/MoeenAlvandi?t=6Pbys85hOdyfDXfVZolzAg&s=35" target="_blank">
             <img src="https://s30.picofile.com/file/8473350668/x_logo_twitter_new_brand_containa_copy.png" height="100"/>
-            <h4>Check out Moeen( (@MoeenAlvandi))</h4>
+            <h4>Check out Moeen : (@MoeenAlvandi)</h4>
         </a>
     </td>
     <td align="center" valign="top" width="17%">
-       <a rel="me" href="https://www.linkedin.com/in/moeen-alvandi" target="_blank">
+       <a rel="me" target="_blank" href="https://www.linkedin.com/in/moeen-alvandi" target="_blank">
             <img src="https://www.habuma.com/img/linkedin.png" height="100"/>
             <h4>LinkedIn</h4>
         </a>
