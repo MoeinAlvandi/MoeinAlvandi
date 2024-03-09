@@ -8,7 +8,7 @@
   <tr>
      <td align="center" valign="top" width="17%">
         <a rel="me" href="https://x.com/MoeenAlvandi?t=6Pbys85hOdyfDXfVZolzAg&s=35" target="_blank">
-            <img src="https://s30.picofile.com/file/8473350592/x_logo_twitter_new_brand_contain.png" height="100"/>
+            <img src="https://s30.picofile.com/file/8473350668/x_logo_twitter_new_brand_containa_copy.png" height="100"/>
             <h4>Twitter<br/>(@habuma)</h4>
         </a>
     </td>
