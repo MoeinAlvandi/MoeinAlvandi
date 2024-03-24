@@ -3,6 +3,7 @@
 
 
 <p>
+  
   I am a Java and C# programmer with a keen interest in learning, teamwork, and advancing in the software industry. I am familiar with the syntax and commands of these programming languages and execute my projects using the Java Spring and .NET Core 3 platforms.
 </p>
 
