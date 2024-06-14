@@ -8,11 +8,11 @@
   I am a Java and C# programmer with a keen interest in learning, teamwork, and advancing in the software industry. I am familiar with the syntax and commands of these programming languages and execute my projects using the Java Spring and .NET Core 3 platforms.
 </p>
 <h3 class="heading-element" dir="auto">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/justindhillon/justindhillon/main/assets/meteor.png"><img src="https://raw.githubusercontent.com/justindhillon/justindhillon/main/assets/meteor.png" width="30" height="30" style="max-width: 100%;"></a>
+
     Connect with me 
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/justindhillon/justindhillon/main/assets/hands.png"><img src="https://raw.githubusercontent.com/justindhillon/justindhillon/main/assets/hands.png" width="30" height="30" style="max-width: 100%;"></a>
   </h3>
-<div id="user-content-badges" align="center" dir="auto">
+<div id="user-content-badges" align="" dir="auto">
   <a href="#">
     </a><a href="https://www.linkedin.com/in/moeen-alvandi" rel="nofollow">
     <img src="https://github.com/MoeinAlvandi/CleanCodeTools/blob/main/linkedin.png?raw=true" style="width: 32px;">
