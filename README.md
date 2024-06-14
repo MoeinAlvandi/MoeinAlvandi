@@ -19,7 +19,7 @@
     color: white;
     border-radius: 5px;
     font-family: Arial, sans-serif;
-    font-size: 14px;">Telegram</a>
+    font-size: 14px;background-color: #0088cc;">Telegram</a>
 
   
   <a href="https://www.facebook.com/sharaf.qeshta.1" rel="nofollow">
