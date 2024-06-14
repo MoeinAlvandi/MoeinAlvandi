@@ -47,6 +47,10 @@
   <a href="https://x.com/MoeenAlvandi">
     <img src="https://github.com/MoeinAlvandi/CleanCodeTools/blob/main/x.jpg.png?raw=true" style="width: 32px">
   </a>
+ <a href="mailto:mr.programmer1398@gmail.com">
+    <img src="https://github.com/MoeinAlvandi/CleanCodeTools/blob/main/gmail_icon-icons.com_62758.png?raw=true" style="width: 32px">
+  </a>
+  
 </div>
 
 
