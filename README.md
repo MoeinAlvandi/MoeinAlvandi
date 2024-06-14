@@ -6,6 +6,18 @@
   
   I am a Java and C# programmer with a keen interest in learning, teamwork, and advancing in the software industry. I am familiar with the syntax and commands of these programming languages and execute my projects using the Java Spring and .NET Core 3 platforms.
 </p>
+
+<h3 align="center" class="heading-element" dir="auto">
+    <a href="https://testcontainers.com/" rel="nofollow">Website</a>
+    <span> · </span>
+    <a href="https://testcontainers.com/guides/" rel="nofollow">Guides</a>
+    <span> · </span>
+    <a href="https://slack.testcontainers.org/" rel="nofollow">Slack</a>
+    <span> · </span>
+    <a href="https://twitter.com/testcontainers" rel="nofollow">Twitter</a>
+</h3>
+
+
 <div id="user-content-badges" align="center" dir="auto">
   <a href="#">
     </a><a href="https://www.linkedin.com/in/moeen-alvandi" rel="nofollow">
