@@ -12,9 +12,7 @@
     <img src="https://camo.githubusercontent.com/73d7f9030632789d857cd7bb543d9cb9bada0672f246b6008258864452f17988/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
   </a>
 
- <a href="https://t.me/yourusername" class="button telegram" style="display: inline-block;padding: 10px 20px;margin: 5px;text-decoration: none;color: white;border-radius: 5px;font-family: Arial, sans-serif;font-size: 14px;background-color: #0088cc;">Telegram</a>
-
-  
+ 
   <a href="https://www.facebook.com/sharaf.qeshta.1" rel="nofollow">
     <img src="https://raw.githubusercontent.com/MoeinAlvandi/CleanCodeTools/main/68747470733a2f2f696d672e73686965.png" alt="Facebook Badge" data-canonical-src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" style="max-width: 100%;">
   </a>
