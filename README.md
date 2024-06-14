@@ -7,18 +7,11 @@
   
   I am a Java and C# programmer with a keen interest in learning, teamwork, and advancing in the software industry. I am familiar with the syntax and commands of these programming languages and execute my projects using the Java Spring and .NET Core 3 platforms.
 </p>
-
-<h3 align="center" class="heading-element" dir="auto">
-    <a href="https://testcontainers.com/" rel="nofollow">Website</a>
-    <span> · </span>
-    <a href="https://testcontainers.com/guides/" rel="nofollow">Guides</a>
-    <span> · </span>
-    <a href="https://slack.testcontainers.org/" rel="nofollow">Slack</a>
-    <span> · </span>
-    <a href="https://twitter.com/testcontainers" rel="nofollow">Twitter</a>
-</h3>
-
-
+<h3 class="heading-element" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/justindhillon/justindhillon/main/assets/meteor.png"><img src="https://raw.githubusercontent.com/justindhillon/justindhillon/main/assets/meteor.png" width="30" height="30" style="max-width: 100%;"></a>
+    Connect with me 
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/justindhillon/justindhillon/main/assets/hands.png"><img src="https://raw.githubusercontent.com/justindhillon/justindhillon/main/assets/hands.png" width="30" height="30" style="max-width: 100%;"></a>
+  </h3>
 <div id="user-content-badges" align="center" dir="auto">
   <a href="#">
     </a><a href="https://www.linkedin.com/in/moeen-alvandi" rel="nofollow">
@@ -33,6 +26,19 @@
     <img src="https://github.com/MoeinAlvandi/CleanCodeTools/blob/main/x.jpg.png?raw=true" style="width: 32px">
   </a>
 </div>
+  
+<h3 align="center" class="heading-element" dir="auto">
+    <a href="https://testcontainers.com/" rel="nofollow">Website</a>
+    <span> · </span>
+    <a href="https://testcontainers.com/guides/" rel="nofollow">Guides</a>
+    <span> · </span>
+    <a href="https://slack.testcontainers.org/" rel="nofollow">Slack</a>
+    <span> · </span>
+    <a href="https://twitter.com/testcontainers" rel="nofollow">Twitter</a>
+</h3>
+
+
+
 <div align="center" dir="auto">
   <animated-image data-catalyst="" style="width: 600px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d26893d99fe76f99fcf7d36e586ad8a0133c131fd4b101fe56494105b4238549/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/d26893d99fe76f99fcf7d36e586ad8a0133c131fd4b101fe56494105b4238549/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" height="300" data-canonical-src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
