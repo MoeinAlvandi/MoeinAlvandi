@@ -6,7 +6,18 @@
   
   I am a Java and C# programmer with a keen interest in learning, teamwork, and advancing in the software industry. I am familiar with the syntax and commands of these programming languages and execute my projects using the Java Spring and .NET Core 3 platforms.
 </p>
-
+<div id="user-content-badges" align="center" dir="auto">
+  <a href="#">
+    </a><a href="https://www.linkedin.com/in/sharaf-keshta-a8b717280" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/73d7f9030632789d857cd7bb543d9cb9bada0672f246b6008258864452f17988/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+  </a>
+  <a href="https://www.facebook.com/sharaf.qeshta.1" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/e3c8c3e3de5004fe543ac212b7e974db63a0995a0cb2db9a913a47d6da292219/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="Facebook Badge" data-canonical-src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" style="max-width: 100%;">
+  </a>
+  <a href="#">
+    <img src="https://camo.githubusercontent.com/344871562459b446020edfad3758f2eaec8aa08d332bf52413055b03bb056b46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="Twitter Badge" data-canonical-src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;">
+  </a>
+</div>
 <div align="center" dir="auto">
   <animated-image data-catalyst="" style="width: 600px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d26893d99fe76f99fcf7d36e586ad8a0133c131fd4b101fe56494105b4238549/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/d26893d99fe76f99fcf7d36e586ad8a0133c131fd4b101fe56494105b4238549/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" height="300" data-canonical-src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
