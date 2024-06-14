@@ -26,7 +26,7 @@
   </a>
 
  
-  <a href="https://www.facebook.com/sharaf.qeshta.1" rel="nofollow">
+  <a href="https://t.me/Mrprogrammer2022" rel="nofollow">
     <img src="https://github.com/MoeinAlvandi/CleanCodeTools/blob/main/telegramIcon2.png?raw=true" alt="" style="width: 32px;">
   </a>
   <a href="#">
