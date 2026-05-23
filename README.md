@@ -27,9 +27,46 @@ Hi, I'm **Moein Alvandi**, a passionate and energetic programmer specializing in
 
 ## 💻 Tech Stack & Skills
 
-<div align="center">
-<img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/skills.svg" alt="Tech Stack and Skills" width="590"/>
-</div>
+### 🖥️ Languages
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/java.svg" width="90" height="108" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/cs.svg" width="90" height="108" alt="C#"/>
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/javascript.svg" width="90" height="108" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/typescript.svg" width="90" height="108" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/html.svg" width="90" height="108" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/css.svg" width="90" height="108" alt="CSS3"/>
+</p>
+
+### ⚙️ Frameworks & Libraries
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/spring.svg" width="90" height="108" alt="Spring"/>
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/dotnet.svg" width="90" height="108" alt=".NET"/>
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/bootstrap.svg" width="90" height="108" alt="Bootstrap"/>
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/fastapi.svg" width="90" height="108" alt="FastAPI"/>
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/hibernate.svg" width="90" height="108" alt="Hibernate"/>
+</p>
+
+### 🗄️ Databases & DevOps
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/mysql.svg" width="90" height="108" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/postgresql.svg" width="90" height="108" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/mongodb.svg" width="90" height="108" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/oracle.svg" width="90" height="108" alt="Oracle"/>
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/docker.svg" width="90" height="108" alt="Docker"/>
+</p>
+
+### 🎨 Design & Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/figma.svg" width="90" height="108" alt="Figma"/>
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/photoshop.svg" width="90" height="108" alt="Photoshop"/>
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/maven.svg" width="90" height="108" alt="Maven"/>
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/git.svg" width="90" height="108" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/gitlab.svg" width="90" height="108" alt="GitLab"/>
+</p>
 
 ---
 
@@ -43,9 +80,7 @@ Hi, I'm **Moein Alvandi**, a passionate and energetic programmer specializing in
 </div>
 
 <div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoeinAlvandi&theme=tokyonight&hide_border=true" />
-
 </div>
 
 ---
