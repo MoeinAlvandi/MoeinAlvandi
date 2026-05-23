@@ -30,42 +30,42 @@ Hi, I'm **Moein Alvandi**, a passionate and energetic programmer specializing in
 ### 🖥️ Languages
 
 <p align="center">
-  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/skills.svg/java.svg" width="90" height="108" alt="Java"/>
-  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/skills.svg/cs.svg" width="90" height="108" alt="C#"/>
-  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/skills.svg/javascript.svg" width="90" height="108" alt="JavaScript"/>
-  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/skills.svg/typescript.svg" width="90" height="108" alt="TypeScript"/>
-  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/skills.svg/html.svg" width="90" height="108" alt="HTML5"/>
-  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/skills.svg/css.svg" width="90" height="108" alt="CSS3"/>
+  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/java.svg" width="90" height="108" alt="Java"/>
+  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/cs.svg" width="90" height="108" alt="C#"/>
+  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/javascript.svg" width="90" height="108" alt="JavaScript"/>
+  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/typescript.svg" width="90" height="108" alt="TypeScript"/>
+  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/html.svg" width="90" height="108" alt="HTML5"/>
+  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/css.svg" width="90" height="108" alt="CSS3"/>
 </p>
 
 ### ⚙️ Frameworks & Libraries
 
 <p align="center">
-  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/skills.svg/spring.svg" width="90" height="108" alt="Spring"/>
-  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/skills.svg/dotnet.svg" width="90" height="108" alt=".NET"/>
-  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/skills.svg/bootstrap.svg" width="90" height="108" alt="Bootstrap"/>
-  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/skills.svg/fastapi.svg" width="90" height="108" alt="FastAPI"/>
-  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/skills.svg/hibernate.svg" width="90" height="108" alt="Hibernate"/>
+  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/spring.svg" width="90" height="108" alt="Spring"/>
+  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/dotnet.svg" width="90" height="108" alt=".NET"/>
+  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/bootstrap.svg" width="90" height="108" alt="Bootstrap"/>
+  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/fastapi.svg" width="90" height="108" alt="FastAPI"/>
+  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/hibernate.svg" width="90" height="108" alt="Hibernate"/>
 </p>
 
 ### 🗄️ Databases & DevOps
 
 <p align="center">
-  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/skills.svg/mysql.svg" width="90" height="108" alt="MySQL"/>
-  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/skills.svg/postgresql.svg" width="90" height="108" alt="PostgreSQL"/>
-  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/skills.svg/mongodb.svg" width="90" height="108" alt="MongoDB"/>
-  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/skills.svg/oracle.svg" width="90" height="108" alt="Oracle"/>
-  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/skills.svg/docker.svg" width="90" height="108" alt="Docker"/>
+  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/mysql.svg" width="90" height="108" alt="MySQL"/>
+  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/postgresql.svg" width="90" height="108" alt="PostgreSQL"/>
+  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/mongodb.svg" width="90" height="108" alt="MongoDB"/>
+  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/oracle.svg" width="90" height="108" alt="Oracle"/>
+  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/docker.svg" width="90" height="108" alt="Docker"/>
 </p>
 
 ### 🎨 Design & Tools
 
 <p align="center">
-  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/skills.svg/figma.svg" width="90" height="108" alt="Figma"/>
-  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/skills.svg/photoshop.svg" width="90" height="108" alt="Photoshop"/>
-  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/skills.svg/maven.svg" width="90" height="108" alt="Maven"/>
-  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/skills.svg/git.svg" width="90" height="108" alt="Git"/>
-  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/skills.svg/gitlab.svg" width="90" height="108" alt="GitLab"/>
+  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/figma.svg" width="90" height="108" alt="Figma"/>
+  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/photoshop.svg" width="90" height="108" alt="Photoshop"/>
+  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/maven.svg" width="90" height="108" alt="Maven"/>
+  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/git.svg" width="90" height="108" alt="Git"/>
+  <img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/gitlab.svg" width="90" height="108" alt="GitLab"/>
 </p>
 
 ---
