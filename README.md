@@ -29,136 +29,75 @@ Hi, I'm **Moein Alvandi**, a passionate and energetic programmer specializing in
 
 ### 🖥️ Languages
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/java.svg" width="80"/><br/>
-      <sub><b>Java</b></sub><br/>
-      <sub>60%</sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/cs.svg" width="80"/><br/>
-      <sub><b>C#</b></sub><br/>
-      <sub>70%</sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/javascript.svg" width="80"/><br/>
-      <sub><b>JavaScript</b></sub><br/>
-      <sub>75%</sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/typescript.svg" width="80"/><br/>
-      <sub><b>TypeScript</b></sub><br/>
-      <sub>50%</sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/html.svg" width="80"/><br/>
-      <sub><b>HTML5</b></sub><br/>
-      <sub>90%</sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/css.svg" width="80"/><br/>
-      <sub><b>CSS3</b></sub><br/>
-      <sub>85%</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/java.svg" width="80" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/cs.svg" width="80" alt="C#"/>
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/javascript.svg" width="80" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/typescript.svg" width="80" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/html.svg" width="80" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/css.svg" width="80" alt="CSS3"/>
+  <br/>
+  <sub><b>Java</b> 60%</sub> &nbsp;&nbsp;&nbsp;
+  <sub><b>C#</b> 70%</sub> &nbsp;&nbsp;&nbsp;
+  <sub><b>JavaScript</b> 75%</sub> &nbsp;&nbsp;&nbsp;
+  <sub><b>TypeScript</b> 50%</sub> &nbsp;&nbsp;&nbsp;
+  <sub><b>HTML5</b> 90%</sub> &nbsp;&nbsp;&nbsp;
+  <sub><b>CSS3</b> 85%</sub>
+</div>
+
+<br/>
 
 ### ⚙️ Frameworks & Libraries
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/spring.svg" width="80"/><br/>
-      <sub><b>Spring</b></sub><br/>
-      <sub>50%</sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/dotnet.svg" width="80"/><br/>
-      <sub><b>.NET</b></sub><br/>
-      <sub>70%</sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/bootstrap.svg" width="80"/><br/>
-      <sub><b>Bootstrap</b></sub><br/>
-      <sub>90%</sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/fastapi.svg" width="80"/><br/>
-      <sub><b>FastAPI</b></sub><br/>
-      <sub>70%</sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/hibernate.svg" width="80"/><br/>
-      <sub><b>Hibernate</b></sub><br/>
-      <sub>50%</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/spring.svg" width="80" alt="Spring"/>
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/dotnet.svg" width="80" alt=".NET"/>
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/bootstrap.svg" width="80" alt="Bootstrap"/>
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/fastapi.svg" width="80" alt="FastAPI"/>
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/hibernate.svg" width="80" alt="Hibernate"/>
+  <br/>
+  <sub><b>Spring</b> 50%</sub> &nbsp;&nbsp;&nbsp;
+  <sub><b>.NET</b> 70%</sub> &nbsp;&nbsp;&nbsp;
+  <sub><b>Bootstrap</b> 90%</sub> &nbsp;&nbsp;&nbsp;
+  <sub><b>FastAPI</b> 70%</sub> &nbsp;&nbsp;&nbsp;
+  <sub><b>Hibernate</b> 50%</sub>
+</div>
+
+<br/>
 
 ### 🗄️ Databases & DevOps
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/mysql.svg" width="80"/><br/>
-      <sub><b>MySQL</b></sub><br/>
-      <sub>85%</sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/postgresql.svg" width="80"/><br/>
-      <sub><b>PostgreSQL</b></sub><br/>
-      <sub>80%</sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/mongodb.svg" width="80"/><br/>
-      <sub><b>MongoDB</b></sub><br/>
-      <sub>80%</sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/oracle.svg" width="80"/><br/>
-      <sub><b>Oracle</b></sub><br/>
-      <sub>80%</sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/docker.svg" width="80"/><br/>
-      <sub><b>Docker</b></sub><br/>
-      <sub>60%</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/mysql.svg" width="80" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/postgresql.svg" width="80" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/mongodb.svg" width="80" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/oracle.svg" width="80" alt="Oracle"/>
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/docker.svg" width="80" alt="Docker"/>
+  <br/>
+  <sub><b>MySQL</b> 85%</sub> &nbsp;&nbsp;&nbsp;
+  <sub><b>PostgreSQL</b> 80%</sub> &nbsp;&nbsp;&nbsp;
+  <sub><b>MongoDB</b> 80%</sub> &nbsp;&nbsp;&nbsp;
+  <sub><b>Oracle</b> 80%</sub> &nbsp;&nbsp;&nbsp;
+  <sub><b>Docker</b> 60%</sub>
+</div>
+
+<br/>
 
 ### 🎨 Design & Tools
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/figma.svg" width="80"/><br/>
-      <sub><b>Figma</b></sub><br/>
-      <sub>80%</sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/photoshop.svg" width="80"/><br/>
-      <sub><b>Photoshop</b></sub><br/>
-      <sub>80%</sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/maven.svg" width="80"/><br/>
-      <sub><b>Maven</b></sub><br/>
-      <sub>70%</sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/git.svg" width="80"/><br/>
-      <sub><b>Git</b></sub><br/>
-      <sub>85%</sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/gitlab.svg" width="80"/><br/>
-      <sub><b>GitLab</b></sub><br/>
-      <sub>80%</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/figma.svg" width="80" alt="Figma"/>
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/photoshop.svg" width="80" alt="Photoshop"/>
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/maven.svg" width="80" alt="Maven"/>
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/git.svg" width="80" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/MoeinAlvandi/MoeinAlvandi/main/skills/gitlab.svg" width="80" alt="GitLab"/>
+  <br/>
+  <sub><b>Figma</b> 80%</sub> &nbsp;&nbsp;&nbsp;
+  <sub><b>Photoshop</b> 80%</sub> &nbsp;&nbsp;&nbsp;
+  <sub><b>Maven</b> 70%</sub> &nbsp;&nbsp;&nbsp;
+  <sub><b>Git</b> 85%</sub> &nbsp;&nbsp;&nbsp;
+  <sub><b>GitLab</b> 80%</sub>
+</div>
 
 ---
 
