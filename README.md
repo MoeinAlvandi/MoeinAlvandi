@@ -28,7 +28,7 @@ Hi, I'm **Moein Alvandi**, a passionate and energetic programmer specializing in
 ## 💻 Tech Stack & Skills
 
 <div align="center">
-<img src="https://github.com/MoeinAlvandi/MoeinAlvandi/blob/main/skills.svg" alt="Tech Stack and Skills" width="580"/>
+<img src="skills.svg" alt="Tech Stack and Skills" width="580"/>
 </div>
 
 ---
